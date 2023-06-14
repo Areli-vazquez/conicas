@@ -1,0 +1,150 @@
+[api-updater (non-obsolete-error-filter)] 25/02/2022 01:55:28 a. m. : Starting D:/UNIVERSIDAD/6tosemestre/Graficación por computadora/Apps/unity/2020.3.22f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1481.0274ms
+moved types parse time: 114ms
+candidates parse time : 2ms
+C# parse time         : 963ms
+candidates check time : 23ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 25/02/2022 02:40:56 a. m. : Starting D:/UNIVERSIDAD/6tosemestre/Graficación por computadora/Apps/unity/2020.3.22f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1547.1561ms
+moved types parse time: 55ms
+candidates parse time : 1ms
+C# parse time         : 751ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 25/02/2022 03:35:39 a. m. : Starting D:/UNIVERSIDAD/6tosemestre/Graficación por computadora/Apps/unity/2020.3.22f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 252.3461ms
+moved types parse time: 55ms
+candidates parse time : 1ms
+C# parse time         : 274ms
+candidates check time : 32ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 25/02/2022 04:02:53 a. m. : Starting D:/UNIVERSIDAD/6tosemestre/Graficación por computadora/Apps/unity/2020.3.22f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 325.0341ms
+moved types parse time: 53ms
+candidates parse time : 1ms
+C# parse time         : 570ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 25/02/2022 06:41:58 p. m. : Starting D:/UNIVERSIDAD/6tosemestre/Graficación por computadora/Apps/unity/2020.3.22f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 3415.725ms
+moved types parse time: 144ms
+candidates parse time : 3ms
+C# parse time         : 2795ms
+candidates check time : 257ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 25/02/2022 06:54:13 p. m. : Starting D:/UNIVERSIDAD/6tosemestre/Graficación por computadora/Apps/unity/2020.3.22f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 620.5952ms
+moved types parse time: 143ms
+candidates parse time : 4ms
+C# parse time         : 323ms
+candidates check time : 76ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 25/02/2022 08:19:06 p. m. : Starting D:/UNIVERSIDAD/6tosemestre/Graficación por computadora/Apps/unity/2020.3.22f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 648.19ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 214ms
+candidates check time : 32ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 25/02/2022 10:50:41 p. m. : Starting D:/UNIVERSIDAD/6tosemestre/Graficación por computadora/Apps/unity/2020.3.22f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 643.892ms
+moved types parse time: 50ms
+candidates parse time : 1ms
+C# parse time         : 329ms
+candidates check time : 32ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 25/02/2022 11:25:05 p. m. : Starting D:/UNIVERSIDAD/6tosemestre/Graficación por computadora/Apps/unity/2020.3.22f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 687.4606ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 208ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 25/02/2022 11:25:14 p. m. : Starting D:/UNIVERSIDAD/6tosemestre/Graficación por computadora/Apps/unity/2020.3.22f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 110.0806ms
+moved types parse time: 58ms
+candidates parse time : 1ms
+C# parse time         : 229ms
+candidates check time : 33ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 25/02/2022 11:28:15 p. m. : Starting D:/UNIVERSIDAD/6tosemestre/Graficación por computadora/Apps/unity/2020.3.22f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 87.8698ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 218ms
+candidates check time : 33ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 25/02/2022 11:28:40 p. m. : Starting D:/UNIVERSIDAD/6tosemestre/Graficación por computadora/Apps/unity/2020.3.22f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 87.4421ms
+moved types parse time: 57ms
+candidates parse time : 1ms
+C# parse time         : 208ms
+candidates check time : 33ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 26/02/2022 01:38:45 a. m. : Starting D:/UNIVERSIDAD/6tosemestre/Graficación por computadora/Apps/unity/2020.3.22f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1605.8826ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 727ms
+candidates check time : 33ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 26/02/2022 01:47:58 a. m. : Starting D:/UNIVERSIDAD/6tosemestre/Graficación por computadora/Apps/unity/2020.3.22f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 244.6822ms
+moved types parse time: 49ms
+candidates parse time : 1ms
+C# parse time         : 208ms
+candidates check time : 33ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 27/02/2022 11:10:21 p. m. : Starting D:/UNIVERSIDAD/6to semestre/Graficación por computadora/Apps/unity/2020.3.22f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1784.4282ms
+moved types parse time: 63ms
+candidates parse time : 1ms
+C# parse time         : 859ms
+candidates check time : 39ms
+console write time    : 1ms
+

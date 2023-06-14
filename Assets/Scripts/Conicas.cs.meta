@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 1ece20d865c50a5459c4dfb0d322802f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - txtConicas: {instanceID: 0}
+  - lbl_A: {instanceID: 0}
+  - lbl_B: {instanceID: 0}
+  - lbl_H: {instanceID: 0}
+  - lbl_K: {instanceID: 0}
+  - lbl_Teta: {instanceID: 0}
+  - matLinea: {fileID: 2100000, guid: 5444f45761eafd748830e62ceb0fcbee, type: 2}
+  - matCircunferencia: {fileID: 2100000, guid: e889561ed5f620e40be7acb9b8c79594, type: 2}
+  - matElipse: {fileID: 2100000, guid: 7b02d1d73e67591419719eaf23d136c0, type: 2}
+  - matParabola: {fileID: 2100000, guid: f694b217903f59b469c860b8a2b34562, type: 2}
+  - matHiperbola: {fileID: 2100000, guid: cf98790003dbea142b48ae05b40aacf0, type: 2}
+  - sl_a: {instanceID: 0}
+  - sl_b: {instanceID: 0}
+  - sl_h: {instanceID: 0}
+  - sl_k: {instanceID: 0}
+  - sl_teta: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
